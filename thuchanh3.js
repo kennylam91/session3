@@ -14,6 +14,9 @@ if (username) {
         }
 
     }
+    else{
+        alert("I don't know you");
+    }
 } else {
     alert("Chua nhap username")
 }
