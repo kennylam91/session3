@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb14c571-70e6-4c4f-bb35-c839fb5ef44b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/thuchanh3.js" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanh4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thuchanh3.html">
+        <entry file="file://$PROJECT_DIR$/thuchanh4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -25,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thuchanh3.js">
+        <entry file="file://$PROJECT_DIR$/thuchanh4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="160">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -55,13 +57,15 @@
         <option value="$PROJECT_DIR$/thuchanh2.js" />
         <option value="$PROJECT_DIR$/thuchanh3.html" />
         <option value="$PROJECT_DIR$/thuchanh3.js" />
+        <option value="$PROJECT_DIR$/thuchanh4.html" />
+        <option value="$PROJECT_DIR$/thuchanh4.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="958" />
+    <option name="x" value="530" />
     <option name="y" value="1" />
-    <option name="width" value="972" />
+    <option name="width" value="1400" />
     <option name="height" value="722" />
   </component>
   <component name="ProjectView">
@@ -115,18 +119,18 @@
       <updated>1556118581751</updated>
       <workItem from="1556118582897" duration="1188000" />
       <workItem from="1556162259344" duration="888000" />
-      <workItem from="1556163843081" duration="2974000" />
+      <workItem from="1556163843081" duration="3619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5050000" />
+    <option name="totallyTimeSpent" value="5695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="958" y="1" width="972" height="722" extended-state="0" />
+    <frame x="530" y="1" width="1400" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1895075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12995595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,8 +209,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thuchanh3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thuchanh4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thuchanh4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
